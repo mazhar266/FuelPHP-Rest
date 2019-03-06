@@ -12,9 +12,9 @@ This is a sample REST API built with FuelPHP for testing "autonomous testing" in
 
 ## Dependancies
 
-- FuelPHP 1.8 [Website](http://fuelphp.com/)
-- PHP CodeCeption [Website](http://docs.fuelphp.com)
-- TravisCI [Website](http://api.fuelphp.com)
+- FuelPHP 1.8 [Website](https://fuelphp.com)
+- PHP CodeCeption [Website](https://codeception.com)
+- TravisCI [Website](https://travis-ci.org)
 
 ## How to run
 
